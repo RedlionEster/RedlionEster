@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RedlionEster
-- 👀 I’m interested in IoT, SmartHome, AI, Machine Learning
+- 👀 I’m interested in AI, Machine Learning, Autonomous Driving, IoT, SmartHome
 - 🌱 I’m currently learning Python and playing with Raspberry PI
 - 💞️ I’m looking to collaborate on Iot and SmartHome projects
 - 📫 How to reach me: raspberryester@gmail.com
