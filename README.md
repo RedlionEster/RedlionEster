@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @RedlionEster
-- 👀 I’m studying AI, Machine Learning, Autonomous Driving and stuff around Data
-- 🌱 I’m currently learning Python and playing with Raspberry PI
-- 💞️ I’m looking to collaborate on Iot and SmartHome projects
-- 📫 How to reach me: raspberryester@gmail.com
+- 🛰️ I’m studying Machine Learning, Autonomous Driving and other cool stuff around Big Data
+- 🐍 Currently on Python and playing with Raspberry PI
+- 🦀 Rust is 🔥
+- 📡 I’m looking to collaborate on Computer Vision and Virtual Reality projects
+- 📧 How to reach me: raspberryester@gmail.com
+- ✨  Me @ Google for Developers: https://g.dev/redlionester
 
 <!---
 RedlionEster/RedlionEster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
